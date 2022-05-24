@@ -15,5 +15,3 @@ const fibonacci = (num) => {
 }
 
 module.exports = {fibonacci}
-
-console.log(fibonacci(3))
